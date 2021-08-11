@@ -34,5 +34,5 @@ class Song
 	end
 end
 
-starman = Song.new("Starman", "David Bowie", "glam rock")
-dirt = Song.new("Dirt", "The Stooges", "proto-punk")
+# starman = Song.new("Starman", "David Bowie", "glam rock")
+# dirt = Song.new("Dirt", "The Stooges", "proto-punk")
